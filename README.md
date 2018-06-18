@@ -9,3 +9,9 @@ There are two different kits that can be used: a voice kit and a camera kit. If 
 ## Software
 
 You will need to install software on your personal laptop in order to communicate with your kit.
+The following steps need to be completed to be able to communicate and work with each kit:
+
+- Install the VNC Viewer application in order for your laptop to communicate with the Raspberry PI boards
+  - https://www.realvnc.com/en/connect/download/viewer
+- Install the Google AIY Raspbian software on the SD Card you will use with your kit (if you purchased a kit)
+  - Instructions are included here: 
