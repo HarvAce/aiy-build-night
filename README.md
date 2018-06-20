@@ -24,4 +24,9 @@ The following steps need to be completed to be able to communicate and work with
 - Install the VNC Viewer application in order for your laptop to communicate with the Raspberry PI boards
   - https://www.realvnc.com/en/connect/download/viewer
 - Install the Google AIY Raspbian software on the SD Card you will use with your kit (if you purchased a kit)
-  - Instructions are included here: 
+  - Download Google's [Voice Kit SD image](https://dl.google.com/dl/aiyprojects/aiyprojects-latest.img.xz)
+  - Download [Etcher.io](https://etcher.io/) to burn Voice Kit image onto SD card 
+  - Launch Etcher and follow instructions
+
+## AIY Instructions
+- https://aiyprojects.withgoogle.com/voice-v1/
