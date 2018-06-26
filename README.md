@@ -28,5 +28,12 @@ The following steps need to be completed to be able to communicate and work with
   - Download [Etcher.io](https://etcher.io/) to burn Voice Kit image onto SD card 
   - Launch Etcher and follow instructions
 
+## Setting up Google Cloud Credentials
+
+If you are bringing your own kit you can optionally set up a Google Cloud account ahead of the build night.  Follow the intructions below to create and download the credentials to your computer.
+
+- https://aiyprojects.withgoogle.com/voice/#google-assistant--get-credentials
+
 ## AIY Instructions
-- https://aiyprojects.withgoogle.com/voice-v1/
+- Voice Kit: https://aiyprojects.withgoogle.com/voice-v1/
+- Vision Kit: https://aiyprojects.withgoogle.com/vision/
