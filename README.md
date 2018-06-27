@@ -35,6 +35,12 @@ If you are bringing your own kit you can optionally set up a Google Cloud accoun
 
 - https://aiyprojects.withgoogle.com/voice/#google-assistant--get-credentials
 
+## Connect to Your Kit
+
+1. Connect your laptops to the Build Night wifi. The provided boards will automatically connect to the Build Night wifi (you will need to manually configure your board to connect to the Build Night wifi if you brought your board with you).
+2. Open VNC Viewer on your laptop.
+3. Connect to your-board-name.local, such as chips.local (written on your kit box).
+
 ## AIY Instructions
 - Voice Kit: https://aiyprojects.withgoogle.com/voice-v1/
 - Vision Kit: https://aiyprojects.withgoogle.com/vision/
